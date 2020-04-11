@@ -1,0 +1,35 @@
+{
+  "name": "primenumbers",
+  "version": "1.0.0",
+  "description": "api which sends prime numbers upto a given number",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenoy/primenumbers.git"
+  },
+  "keywords": [
+    "prime",
+    "numbers"
+  ],
+  "author": "Rajesh Shenoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenoy/primenumbers/issues"
+  },
+  "homepage": "https://github.com/shenoy/primenumbers#readme"
+}

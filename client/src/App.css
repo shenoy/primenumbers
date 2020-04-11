@@ -1,0 +1,18 @@
+.root {
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+  align-items: center;
+}
+
+.heading {
+  margin-bottom: 10px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+}
+
+.sub {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
